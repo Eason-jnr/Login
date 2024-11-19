@@ -190,27 +190,4 @@ input[type="submit"]:hover {
 }
 
 /* Media Queries */
-@media (max-width: 600px) {
-    .box {
-        width: 90%;
-        height: auto;
-    }
-
-    .box:hover {
-        width: 90%;
-        height: auto;
-    }
-
-    .login {
-        inset: 20px;
-        padding: 10px;
-    }
-
-    .loginBx {
-        gap: 15px;
-    }
-
-    input {
-        padding: 8px 15px;
-    }
-}
+@media (max-width: 600px)
