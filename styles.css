@@ -188,6 +188,3 @@ input[type="submit"]:hover {
     color: #ff2770;
     font-weight: 600;
 }
-
-/* Media Queries */
-@media (max-width: 600px)
